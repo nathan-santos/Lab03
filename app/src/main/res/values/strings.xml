@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab03</string>
+    <string name="action_settings">Settings</string>
+    <string name="but1">1</string>
+    <string name="but2">2</string>
+    <string name="but3">3</string>
+    <string name="but4">+</string>
+    <string name="but5">4</string>
+    <string name="but6">5</string>
+    <string name="but7">6</string>
+    <string name="but8">-</string>
+    <string name="but9">7</string>
+    <string name="but10">8</string>
+    <string name="but11">9</string>
+    <string name="but12">*</string>
+    <string name="but13">0</string>
+    <string name="but14">/</string>
+
+</resources>
